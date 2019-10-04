@@ -1,0 +1,1 @@
+﻿Links:[Book on Amazon](https://www.amazon.de/Fearless-Organization-Psychological-Workplace-Innovation/dp/1119477247/)[Responsibility Process](http://www.christopheravery.com/responsibility-process)
