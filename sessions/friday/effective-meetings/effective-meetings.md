@@ -15,7 +15,7 @@
 * Visualization of concepts is very important to get a common understanding of the discussed concepts
 
 * Learn how to conduct better meetings
-  * try different things: Leog, Workshops, Trainer/Coaches
+  * try different things: Lego, Workshops, Trainer/Coaches
   
 * References
   * [Liberating Structures](https://www.liberatingstructures.de/)
