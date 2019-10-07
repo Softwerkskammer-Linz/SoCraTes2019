@@ -1,0 +1,21 @@
+# Enterprise Survival Patterns
+- Numbers and metrics or it doesn't exist
+- Storytelling
+- Refactoring
+  - Don't ask, don't tell
+  - Cleanup your house (boy scout rule)
+  - Security and compliance to get the necessary resources
+  - Spend effort now to be cheaper/faster in the future
+  - Sugar the bitter pill
+- Black Ops (don't ask for permission, ask for forgiveness)
+- Human relationships
+  - (Re)building trust
+  - Deliver ammunition/food for your manager
+  - Make it their ideas
+  - If you don't play the game, you have already lost
+  - The meeting before the meeting where decisions get made
+- Malicious compliance ("play by the book")
+- Demand sign off and paper trail
+- Prepare decision templates to get the required decisions
+- Estimates: buffers, buffers, buffers...
+- Love it, change it or leave it
