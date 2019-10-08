@@ -20,6 +20,6 @@
 - Estimates: buffers, buffers, buffers...
 - Love it, change it, or leave it
 
-# Links for things mentioned in the discussion
+## Links for things mentioned in the discussion
 - [The Infinite Game: How to Lead in the 21st Century](https://www.youtube.com/watch?v=3vX2iVIJMFQ)
 - esp. with Customers: identify the "Foxes" --> [The New Power Base Selling](https://www.amazon.de/New-Power-Base-Selling-Competition/dp/1118206673/)
