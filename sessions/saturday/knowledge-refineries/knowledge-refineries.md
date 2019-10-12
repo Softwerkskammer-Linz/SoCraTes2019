@@ -12,10 +12,10 @@ the knowledge starts very vague and becomes gradually more specific until it end
 the knowledge is transferred, refined, stored, and it decays
 https://www.youtube.com/watch?v=APLft3iV_IY.
 
-## Preventing Knowledge loss through fluctuation
+## preventing knowledge loss through fluctuation
 code reviews, pair programming, mob programming.
 
-## Communication
+## communication
 communication is lossy.
 bugs in code, specifications, requirements and ideas.
 a waterfall process hides bugs until the last possible moment, it maximizes the risk of bugs, and the damage those bugs inflict.
